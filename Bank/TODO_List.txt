@@ -1,0 +1,24 @@
+#TODO_List:
+1. Generujemy ID konta
+2. Budujemy tworzenie kont
+3. Zwracmy dane stworzonych kont
+4. Zwracamy wszystkie konta klienta
+5. Zwracamy konto o podanym numerze
+6. Tworzymy liste klientów
+7. Zamkniêcie miesi¹ca
+8. Wp³ata i wyp³ata gotówki
+//-------
+Interakcja z u¿tkownikiem - wersja onkienkowa
+1.Wybieramy odpowiedni¹ akcjê
+2.Wczytujemy dane u¿ytkownika
+3.Wykonujemy akcjê
+	- tworzenie kont
+	- wp³ata gotówki na konto
+	- wyp³ata gotóki z konta
+	- wyœwietlenie listy klientów banku
+	- wyœwietlenie danych konkretnego konta
+	- wyœwietlenie danych wszystkich kont
+	- wyœwietlenie danych kont konkretnego klienta
+	- zamkniêcie miesi¹ca
+	- zamkniêcie konta
+4.Wracamy do menu
